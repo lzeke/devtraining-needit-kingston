@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Test" max_length="40" name="x_58872_needit_test" type="collection">
+        <element active="false" label="Incident" max_length="32" name="incident" reference="incident" type="reference"/>
+        <element choice="1" label="MyChoices" max_length="40" name="mychoices" type="choice">
+            <choice>
+                <element label="option1" sequence="1" value="option1"/>
+                <element label="option2" sequence="2" value="option2"/>
+            </choice>
+        </element>
+        <element label="MyDate" max_length="40" name="mydate" type="glide_date_time"/>
+        <element label="MyStage" max_length="80" name="mystage" type="workflow"/>
+        <element label="MyText" max_length="40" name="mytext" type="string"/>
+        <index name="index">
+            <element name="incident"/>
+        </index>
+    </element>
+</database>

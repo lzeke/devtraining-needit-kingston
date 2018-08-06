@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="expert_panel_variable">
+    <expert_panel_variable action="INSERT_OR_UPDATE">
+        <expert_panel display_value="Panel1">73c80980db7f1300eec2dde748961978</expert_panel>
+        <expert_variable display_value="Question for var1">94c74d40db7f1300eec2dde74896197f</expert_variable>
+        <order>100</order>
+        <sys_class_name>expert_panel_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-03 13:39:27</sys_created_on>
+        <sys_id>b009c180db7f1300eec2dde748961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Panel1.Question for var1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>expert_panel_variable_b009c180db7f1300eec2dde748961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-03 13:39:27</sys_updated_on>
+    </expert_panel_variable>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="expert_panel">
+    <expert_panel action="INSERT_OR_UPDATE">
+        <banner_step/>
+        <complete_message>Done</complete_message>
+        <description/>
+        <expert display_value="LZ Test Wizard">7f570940db7f1300eec2dde7489619b5</expert>
+        <name>Panel1</name>
+        <next_message>Next</next_message>
+        <order>100</order>
+        <previous_message>Previous</previous_message>
+        <sys_class_name>expert_panel</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-03 13:39:11</sys_created_on>
+        <sys_id>73c80980db7f1300eec2dde748961978</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Panel1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>expert_panel_73c80980db7f1300eec2dde748961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-03 13:56:36</sys_updated_on>
+        <title>Title for Panel1</title>
+    </expert_panel>
+    <sys_translated_text action="delete_multiple" query="documentkey=73c80980db7f1300eec2dde748961978"/>
+</record_update>
